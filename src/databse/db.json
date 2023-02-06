@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "firstname": " ",
+      "lastname": " ",
+      "email": " ",
+      "phone": " ",
+      "department": " ",
+      "id": 11
+    },
+    {
+      "firstname": " ",
+      "lastname": " ",
+      "email": "as",
+      "phone": "as",
+      "department": "sa",
+      "id": 12
+    },
+    {
+      "firstname": "saurvaas",
+      "lastname": "kumaras",
+      "email": "as",
+      "phone": "as",
+      "department": "sa",
+      "id": 13
+    },
+    {
+      "firstname": "sa",
+      "lastname": "ku",
+      "email": "mesayik477@rubeshi.com",
+      "phone": "sa",
+      "department": "6546",
+      "id": 14
+    },
+    {
+      "firstname": "saurva",
+      "lastname": "kumar",
+      "email": "sa@gmail",
+      "phone": "456",
+      "department": "ii",
+      "id": 15
+    },
+    {
+      "firstname": "kapilassa",
+      "lastname": "kumar",
+      "email": "kk@gmail.com",
+      "phone": "100",
+      "department": "head",
+      "id": 16
+    },
+    {
+      "firstname": " cishu",
+      "lastname": " singh",
+      "email": " singh@gmail.com",
+      "phone": " 98653247",
+      "department": " eat",
+      "id": 17
+    },
+    {
+      "firstname": "vishal",
+      "lastname": "sharma",
+      "email": "vs@",
+      "phone": "789",
+      "department": "tt",
+      "id": 18
+    },
+    {
+      "firstname": "saurav",
+      "lastname": "kumar",
+      "email": "sauravkuma00r@gmail.com",
+      "phone": "8376090756",
+      "department": "aa",
+      "id": 19
+    }
+  ]
+}
